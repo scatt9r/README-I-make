@@ -41,4 +41,5 @@ Windows Git Bash 환경에서 실습을 진행하였다.
 - kill 명령어 실행
 
 top 명령어는 Git Bash 환경에서 지원되지 않아 실행되지 않았다.
+### 실행화면
 ![ps](tpsk.png)
